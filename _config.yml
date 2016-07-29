@@ -1,7 +1,7 @@
 name: 'Michael Gill '
 favicon: null
-layout_spectrum: 0.15088585810735822
-typography_spectrum: 0.6033343775197864
+layout_spectrum: 0
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.12684314488433301
-  lightness: 0.9299042085185647
-  saturation: 0.15214430168271065
-  rhythmicContrast: 0.1620278067421168
+    - '#bebebe'
+    - '#858585'
+    - '#555555'
+    - '#f4f4f4'
+    - '#292929'
+  brandStrength: 1
+  lightness: 1
+  saturation: 0.5
+  rhythmicContrast: 1
 purpose: []
